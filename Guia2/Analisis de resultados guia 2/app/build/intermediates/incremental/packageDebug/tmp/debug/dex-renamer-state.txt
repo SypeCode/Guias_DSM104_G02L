@@ -1,0 +1,4 @@
+#Sun Feb 21 21:43:22 CST 2021
+base.0=C\:\\Users\\sypec\\OneDrive\\Escritorio\\UDB Ciclo 01-2021\\DSM\\Lab\\Guias_DSM104_G02L\\Guia2\\Analisis de resultados guia 2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
